@@ -5,3 +5,5 @@ reportlab
 openpyxl
 xlsxwriter
 numpy
+kaleido
+
